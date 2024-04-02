@@ -1,6 +1,7 @@
 # FilesOnFly Node.js SDK
 
 [![Unit Tests](https://github.com/filesonfly/node-sdk/actions/workflows/unittests.js.yml/badge.svg)](https://github.com/filesonfly/node-sdk/actions/workflows/unittests.js.yml)
+![NPM Version](https://img.shields.io/npm/v/%40filesonfly%2Fnode-sdk)
 
 The `@filesonfly/node-sdk` is a Node.js client library for interacting with the [FilesOnFly](https://filesonfly.com) API, allowing you to easily upload, retrieve, and manage files in your Node.js applications.
 
