@@ -1,0 +1,35 @@
+{
+  "name": "node-sdk",
+  "version": "0.0.0",
+  "description": "NodeJS SDK for Files on Fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filesonfly/node-sdk.git"
+  },
+  "keywords": [
+    "cloud",
+    "storage",
+    "sdk",
+    "api"
+  ],
+  "author": "Files On Fly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filesonfly/node-sdk/issues"
+  },
+  "homepage": "https://github.com/filesonfly/node-sdk#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/nock": "^11.1.0",
+    "jest": "^29.7.0",
+    "nock": "^13.5.4"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.7.0"
+  }
+}
