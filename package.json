@@ -1,6 +1,6 @@
 {
   "name": "@filesonfly/node-sdk",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "NodeJS SDK for Files on Fly",
   "main": "index.js",
   "scripts": {
