@@ -1,5 +1,5 @@
 {
-  "name": "node-sdk",
+  "name": "@filesonfly/node-sdk",
   "version": "0.1.3",
   "description": "NodeJS SDK for Files on Fly",
   "main": "index.js",
